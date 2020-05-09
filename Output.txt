@@ -1,0 +1,79 @@
+
+						OUTPUT FOR THE GIVEN ASSIGNMENT
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+C:\1KS18CS008\Assignment1\src>java Asn03G03P05 "AVINASH PRASAD DHRUV JYOTI SHUKLA KARTHIK K"
+Huffman Codes are :
+
+  101
+A 110
+D 11111
+H 1110
+I 1000
+J 01010
+K 000
+L 01011
+N 00100
+O 00110
+P 00111
+R 1001
+S 0111
+T 0110
+U 11110
+V 0100
+Y 00101
+
+Original string was :
+AVINASH PRASAD DHRUV JYOTI SHUKLA KARTHIK K
+
+Encoded string is :
+1100100100000100110011111101010011110011100111110111111011111111101001111100100101010100010100110011010001010111111011110000010111101010001101001011011101000000101000
+
+Decoded string is:
+
+AVINASH PRASAD DHRUV JYOTI SHUKLA KARTHIK K
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+C:\1KS18CS008\Assignment1\src>java Asn03G03P05 "computer science and engineering"
+Huffman Codes are :
+
+  1111
+a 10000
+c 010
+d 10100
+e 00
+g 0111
+i 1110
+m 10101
+n 110
+o 01100
+p 01101
+r 1011
+s 10010
+t 10011
+u 10001
+
+Original string was :
+computer science and engineering
+
+Encoded string is :
+01001100101010110110001100110010111111100100101110001100100011111000011010100111100110011111101100000101111101100111
+
+Decoded string is:
+computer science and engineering
+
+-----------------------------------------------------------------------------------------------------------------------
+
+TIME COMPLEXITY :-
+
+		   THE TIME COMPLEXITY FOR THE PRIORITY QUEUE IS O(LOG N) AND THE TIME COMPLEXITY FOR HUFFMAN ALGORITHM 
+		   IS O(NLOG(N)) WHERE N IS THE NUMBER OF CHARACTERS.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+							THANK YOU
+						       ---*---*---
